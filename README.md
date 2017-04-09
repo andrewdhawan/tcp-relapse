@@ -12,3 +12,6 @@ Files included are:
 [4] dLogistic.m - contains logistic growth ODE for average number of cells following treatement
 
 [5] ode4.m - ODE solver used
+
+
+<a href="https://zenodo.org/badge/latestdoi/87719667"><img src="https://zenodo.org/badge/87719667.svg" alt="DOI"></a>
